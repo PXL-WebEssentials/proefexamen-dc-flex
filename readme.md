@@ -1,5 +1,5 @@
 # Proefexamen 
-Met Bootstrap Grid
+Met CSS Flexbox
 
 ## Opdracht 1 (56 punten)
 
